@@ -1,0 +1,23 @@
+{
+  "name": "ipoz/yii2-exitintentpopup",
+  "description": "Exit intent ppopup - widget for yii2 appliacations",
+  "keywords": ["yii2", "extension", "widget", "popup", "exit popup", "intent popup"],
+  "type": "yii2-extension",
+  "license": "BSD 3-Clause",
+  "minimum-stability": "dev",
+  "version": "1.0.0",
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "authors": [
+    {
+      "name": "ipoz",
+      "email": "rafal@ipoz.eu"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "ipoz\\yii2\\exitintentpopup\\": ""
+    }
+  }
+}
